@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.banner h1{
+    font-weight: normal;
+    font-size: 3.125rem;
+    color: white;
+}
