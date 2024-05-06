@@ -3,6 +3,7 @@
     padding: 0;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 
 body{
@@ -12,12 +13,23 @@ body{
 .banner h1{
     font-weight: normal;
     font-size: 3.125rem;
-    color: white;
 }
 
-.banner a{
+a{
     color: aquamarine;
     font-size: 1rem;
     display: block;
+    margin: 2rem 0;
+}
+
+.main h1{
+    font-weight: 300;
+    font-size: 2.625rem;
+    margin: 2rem 0;
+}
+
+.main p{
+    font-size: 1.3125rem;
+    color: gray;
     margin: 2rem 0;
 }
