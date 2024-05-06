@@ -33,3 +33,9 @@ a{
     color: gray;
     margin: 2rem 0;
 }
+
+footer p{
+    text-align: right;
+    color: gray;
+    margin: 0 1rem 1rem 0;
+}
