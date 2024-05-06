@@ -14,3 +14,8 @@ body{
     font-size: 3.125rem;
     color: white;
 }
+
+.banner a{
+    color: aquamarine;
+    font-size: 1rem;
+}
